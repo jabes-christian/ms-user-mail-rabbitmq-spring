@@ -33,3 +33,7 @@ build/
 ### VS Code ###
 .vscode/
 .DS_Store
+
+# Bloquear .env em qualquer pasta do projeto
+**/.env
+.env
